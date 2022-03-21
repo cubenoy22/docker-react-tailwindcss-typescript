@@ -1,0 +1,4 @@
+public/
+
+# this omits unnecessary logs when you lint with --debug
+**/node_modules
